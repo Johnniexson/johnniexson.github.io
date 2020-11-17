@@ -649,7 +649,8 @@ iframe {
     }
 
     .project-image {
-        margin-bottom: 15px;
+        margin-bottom: 15px !important;
+        height: auto !important;
     }
 }
 
